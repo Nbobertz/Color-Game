@@ -4,4 +4,5 @@ Directions: The game will display 6 random colors, one of which corresponds to a
             if you select the wrong square it will slowly dissapear and a message will appear saying "try again"
             There is a reset button on the left of the bar near the top of the screen which reads either "new colors" or "tray again?"
             
-credit for this website goes to Colt Steele. I just coded along
+credit for this website goes to Colt Steele's Web Development Boot Camp on Udemy
+

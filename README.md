@@ -6,3 +6,4 @@ Directions: The game will display 6 random colors, one of which corresponds to a
             
 credit for this website goes to Colt Steele's Web Development Boot Camp on Udemy
 
+Going to Guam. Job was changed to "GIS Developer/Analyst." Will be there for 6 months-2 years.
